@@ -1,1 +1,6 @@
-[30-04-2026 11:12 PM] ACC:10000 | DEPOSIT  | $10000.00   | Approved
+[03-05-2026 08:33 PM] ACC:10000 | DEPOSIT  | $10000.00   | Approved
+[03-05-2026 08:34 PM] ACC:10000 | LOAN_IN  | $2000.00    | Loan Approved
+[03-05-2026 08:36 PM] ACC:10001 | SECURITY | $0.00       | Admin Approved Reset to 1111
+[03-05-2026 08:38 PM] ACC:10000 | REQ_SENT | $100.00     | Paid Req to Sangram Khan
+[03-05-2026 08:38 PM] ACC:10001 | REQ_RCVD | $100.00     | Req Fulfilled by Sahoss Khan New
+[03-05-2026 08:40 PM] ACC:10000 | W-DRAW   | $2000.00    | Cash Withdrawal
